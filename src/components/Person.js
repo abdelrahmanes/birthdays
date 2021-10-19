@@ -1,6 +1,6 @@
 import React from "react";
 import { Component } from "react";
-import { Fragment } from "react"
+import { Fragment } from "react";
 import one from "../imgs/Bertie.jpg";
 import two from "../imgs/hester.jpg";
 import three from "../imgs/larry.jpg";
