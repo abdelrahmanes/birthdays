@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/birthdays/static/css/main.7703d906.chunk.css",
-    "main.js": "/birthdays/static/js/main.c40420fe.chunk.js",
-    "main.js.map": "/birthdays/static/js/main.c40420fe.chunk.js.map",
+    "main.css": "/birthdays/static/css/main.fa2cdd8b.chunk.css",
+    "main.js": "/birthdays/static/js/main.de4138fb.chunk.js",
+    "main.js.map": "/birthdays/static/js/main.de4138fb.chunk.js.map",
     "runtime-main.js": "/birthdays/static/js/runtime-main.3a9b1b8e.js",
     "runtime-main.js.map": "/birthdays/static/js/runtime-main.3a9b1b8e.js.map",
     "static/js/2.4f2c3ed6.chunk.js": "/birthdays/static/js/2.4f2c3ed6.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.9bab369b.chunk.js": "/birthdays/static/js/3.9bab369b.chunk.js",
     "static/js/3.9bab369b.chunk.js.map": "/birthdays/static/js/3.9bab369b.chunk.js.map",
     "index.html": "/birthdays/index.html",
-    "static/css/main.7703d906.chunk.css.map": "/birthdays/static/css/main.7703d906.chunk.css.map",
+    "static/css/main.fa2cdd8b.chunk.css.map": "/birthdays/static/css/main.fa2cdd8b.chunk.css.map",
     "static/js/2.4f2c3ed6.chunk.js.LICENSE.txt": "/birthdays/static/js/2.4f2c3ed6.chunk.js.LICENSE.txt",
     "static/media/Bertie.656e3da7.jpg": "/birthdays/static/media/Bertie.656e3da7.jpg",
     "static/media/hester.705a1597.jpg": "/birthdays/static/media/hester.705a1597.jpg",
@@ -21,7 +21,7 @@
   "entrypoints": [
     "static/js/runtime-main.3a9b1b8e.js",
     "static/js/2.4f2c3ed6.chunk.js",
-    "static/css/main.7703d906.chunk.css",
-    "static/js/main.c40420fe.chunk.js"
+    "static/css/main.fa2cdd8b.chunk.css",
+    "static/js/main.de4138fb.chunk.js"
   ]
 }
